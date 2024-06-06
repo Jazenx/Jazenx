@@ -13,7 +13,7 @@
 
 ```javascript
 const Jason = {
-    code: ["Javascript", "React", "TypeScript", "Vue"],
+    code: ["JavaScript", "React", "TypeScript", "Vue"],
     askMeAbout: ["frontend", "app dev", "cook"],
     technologies: {
         mobileApp: {
