@@ -5,9 +5,6 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![GitHub followers](https://img.shields.io/github/followers/Jazenx?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=Jazenx.Jazenx)
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
