@@ -13,15 +13,16 @@
 
 ```javascript
 const Jason = {
+    currentFocus: "mobile apps",
     code: ["JavaScript", "React", "TypeScript", "Vue"],
     askMeAbout: ["frontend", "app dev", "cook"],
     technologies: {
         mobileApp: {
-            hybrid: ["React Native", "Weex", "Flutter"]
-            native: ["Android Development", "Swift UI"]
+            hybrid: ["React Native", "Weex", "Flutter"],
+            native: ["Android Development", "Swift UI"],
         },
         miniprogram: {
-            wx: ["Taro"]
+            wx: ["Taro"],
         },
         backEnd: {
             js: ["Node", "Nest.js", "Java"],
@@ -29,8 +30,7 @@ const Jason = {
         devOps: ["AWS", "Docker🐳", "Nginx"],
         databases: ["mongo", "MySql", "Redis"],
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
+    architecture: ["Cross-end development framework", "Progressive web applications", "Single page applications"],
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
