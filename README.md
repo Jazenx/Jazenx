@@ -7,7 +7,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Jazenx?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=Jazenx.Jazenx)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
