@@ -27,7 +27,6 @@ const Jason = {
         databases: ["mongo", "MySql", "Redis"],
     },
     architecture: ["Cross-end development framework", "Progressive web applications", "Single page applications"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
