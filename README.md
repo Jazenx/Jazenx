@@ -3,7 +3,7 @@
 ```javascript
 const Jason = {
     currentFocus: "mobile apps",
-    code: ["JavaScript", "React", "TypeScript", "Vue"],
+    code: ["AI","JavaScript", "React", "TypeScript", "Vue"],
     askMeAbout: ["frontend", "app dev", "cook"],
     technologies: {
         mobileApp: {
