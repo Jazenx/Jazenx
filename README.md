@@ -2,7 +2,6 @@
 
 ```javascript
 const Jason = {
-    currentFocus: "mobile apps",
     code: ["AI","JavaScript", "React", "TypeScript", "Vue"],
     askMeAbout: ["Frontend", "Team Infra", "Fitness"],
     technologies: {
@@ -19,7 +18,6 @@ const Jason = {
         devOps: ["AWS", "Docker🐳", "Nginx", "k8s"],
         databases: ["MySql", "Redis"],
     },
-    architecture: ["Cross-end development framework", "Progressive web applications", "Single page applications"],
 };
 ```
 
