@@ -4,7 +4,7 @@
 const Jason = {
     currentFocus: "mobile apps",
     code: ["AI","JavaScript", "React", "TypeScript", "Vue"],
-    askMeAbout: ["frontend", "app dev", "cook"],
+    askMeAbout: ["Frontend", "Team Infra", "Fitness"],
     technologies: {
         mobileApp: {
             hybrid: ["React Native", "Weex", "Flutter"],
@@ -14,10 +14,10 @@ const Jason = {
             wx: ["Taro"],
         },
         backEnd: {
-            js: ["Node", "Nest.js", "Java"],
+            js: ["Go", "Nest.js"],
         },
-        devOps: ["AWS", "Docker🐳", "Nginx"],
-        databases: ["mongo", "MySql", "Redis"],
+        devOps: ["AWS", "Docker🐳", "Nginx", "k8s"],
+        databases: ["MySql", "Redis"],
     },
     architecture: ["Cross-end development framework", "Progressive web applications", "Single page applications"],
 };
