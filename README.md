@@ -2,11 +2,10 @@
 
 ```javascript
 const Jason = {
-    code: ["AI","JavaScript", "React", "TypeScript", "Vue"],
-    askMeAbout: ["Frontend", "Team Infra", "Fitness"],
-爱好
-    Hobbies: ["Fitness", "Driving", "Cooking"， "Outdoor"],
-    technologies: {
+    code💻: ["AI","JavaScript", "React", "TypeScript", "Vue"],
+    askMeAbout❓: ["Frontend", "Team Infra", "Fitness"],
+    hobbies🩷: ["Fitness🏋️‍♀️", "Driving🚗", "Cooking🍳"， "Outdoor🥾"],
+    technologies⌨️: {
         mobileApp: {
             hybrid: ["React Native", "Weex", "Flutter"],
             native: ["Android Development", "Swift UI"],
